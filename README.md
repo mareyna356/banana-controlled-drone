@@ -1,7 +1,7 @@
 # banana-controlled-drone
 My final project for my Microprocessors and Microcontrollers course during my 5th semester at the Autonomous University of Baja California (September - December, 2020): a mini drone controlled by bananas.
 
-Partly inspired by WesleyCMD's "[Mind Control Drone](https://projecthub.arduino.cc/WesleyCMD/mind-control-drone-4b6e4d)" project.
+Partly inspired by WesleyCMD's "[Mind Control Drone](https://projecthub.arduino.cc/WesleyCMD/mind-control-drone-4b6e4d)" project. Huge thanks to him for the instructions on how to hack the drone controller and connect it to the Arduino through a low-pass RC filter.
 
 The circuit schematic can be seen in [***Circuit.png***](Circuit.png).  
 The Arduino code used in this project is in [***BananaDrone.ino***](BananaDrone.ino).  
