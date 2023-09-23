@@ -3,8 +3,8 @@ My final project for my Microprocessors and Microcontrollers course during my 5t
 
 Partly inspired by WesleyCMD's "[Mind Control Drone](https://projecthub.arduino.cc/WesleyCMD/mind-control-drone-4b6e4d)" project.
 
-The circuit schematic can be seen in "Circuit.png".  
-The Arduino code used in this project is in "BananaDrone.ino".  
+The circuit schematic can be seen in [***Circuit.png***](Circuit.png).  
+The Arduino code used in this project is in [***BananaDrone.ino***](BananaDrone.ino).  
 This code requires the [Wire](https://www.arduino.cc/reference/en/language/functions/communication/wire/) and [Adafruit_MPR121](https://github.com/adafruit/Adafruit_MPR121/tree/master) libraries.
 
 Tools used:
